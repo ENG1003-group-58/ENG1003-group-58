@@ -6,7 +6,8 @@ LIST OF MEMBERS FOR TEAM 58
 Justin Field 2608 4988
 >>>>>>> origin/master
  
-Babal Mortazi 2718 0263
+Babak Mortazi 2718 0263
+Babak is doing civil engineering 2nd year
  
 <<<<<<< HEAD
 Louis Choy 2690 3512
