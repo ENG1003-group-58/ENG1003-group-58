@@ -6,13 +6,18 @@ LIST OF MEMBERS FOR TEAM 58
 Justin Field 2608 4988
 >>>>>>> origin/master
  
-Babal Mortazi 262626
+Babal Mortazi 2718 0263
  
+<<<<<<< HEAD
 Louis Choy 2690 3512
+=======
+Louis Choy 
+>>>>>>> Justin-
  
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -21,3 +26,10 @@ Louis Choy
 Doing Commerce Engineering. Loving ENG1003
 Role in project:
 Preferred branch of engineering: Mechanical or Electrical
+=======
+Justin Field
+
+My name is Justin
+
+Preferred branch of engineering: 
+>>>>>>> Justin-
