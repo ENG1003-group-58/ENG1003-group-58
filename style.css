@@ -1,0 +1,72 @@
+body {
+    background-image: url(background.jpg);
+}
+
+.record{
+	font: "Arial";
+    width: 100%;
+    height: 20%;
+    font-size: 40;
+    position: "relative";
+    text-align: "center";
+}
+
+.view{
+	font: "Arial";
+    width: 100%;
+    height: 20%;
+    font-size: 40;
+    position: "relative";
+    text-align: "center";
+}
+
+#map{
+    width: 70%;
+    height: 50%;
+    margin: 5%;
+    padding: 10%;
+    align-content: stretch;
+
+}
+
+.start{
+
+    font: "Arial";
+    width: 100%;
+    height: 15%;
+    font-size: 20;
+    position: "relative";
+    text-align: "center";
+
+}
+
+.stop{
+
+    font: "Arial";
+    width: 100%;
+    height: 15%;
+    font-size: 20;
+    position: "relative";
+    text-align: "center";
+
+}
+
+#time{
+    font: "Arial";
+    font-size: 50;
+    color: white;
+    width: 60%;
+    height: 15%;
+    margin: 10%;
+    padding: 10%;
+    
+}
+
+#status{
+    font: "Arial";
+    font-size: 30;
+    color: white;
+    margin: 10%;
+    padding: 10%;
+    
+}
